@@ -1,0 +1,12 @@
+.banner_index{
+    width: 100%;
+    height: 500px;
+    padding: 100px 0px 0px 100px;
+    box-sizing: border-box;
+    background-image: url(https://wallpaperaccess.com/full/4133859.jpg);
+    background-size: cover;
+    background-color: white;
+    position: fixed;
+    top: -10px;
+}
+
